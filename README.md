@@ -4,6 +4,13 @@
 
 - ![ space ](2.png)
 
+# Features
+- The game includes a shield, which gives you an extra shot to continue the game
+- The ship is capable of firing an unlimited number of times with sound accompaniment
+- There is background music
+- There are sound effects of the ship's engine
+- The goal of the game is to destroy all asteroids
+
 - ![ space ](3.png)
 
 # Installation
