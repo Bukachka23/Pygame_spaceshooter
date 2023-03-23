@@ -1,7 +1,9 @@
 # Space Shooter
 - Space Shooter is a 2D shooting game built using Pygame 2.3.0. In this game, the player controls a spaceship and shoots down the enemy spaceships while avoiding their attacks. The game is designed to be fast-paced and challenging, with different types of enemies and power-ups that can be collected.
 - ![ space ](1.png)
+
 - ![ space ](2.png)
+
 - ![ space ](3.png)
 
 # Installation
